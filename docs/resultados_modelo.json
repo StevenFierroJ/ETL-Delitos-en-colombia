@@ -1,0 +1,43 @@
+{
+  "municipios": 275,
+  "filas_entrenamiento": 42900,
+  "filas_prueba": 5225,
+  "meses_prueba": "2025-01 a 2026-07",
+  "hechos_prueba": 64860,
+  "estacional": {
+    "MAE": 4.34,
+    "RMSE": 14.37,
+    "WAPE_%": 34.9,
+    "sesgo_%": 13.0
+  },
+  "estacional_sin_dic_2025": {
+    "MAE": 4.36,
+    "RMSE": 14.46,
+    "WAPE_%": 34.7,
+    "sesgo_%": 13.1
+  },
+  "persistencia": {
+    "MAE": 3.53,
+    "RMSE": 10.94,
+    "WAPE_%": 28.4,
+    "sesgo_%": -0.4
+  },
+  "persistencia_sin_dic_2025": {
+    "MAE": 3.49,
+    "RMSE": 10.58,
+    "WAPE_%": 27.8,
+    "sesgo_%": -1.6
+  },
+  "modelo": {
+    "MAE": 3.48,
+    "RMSE": 13.48,
+    "WAPE_%": 28.1,
+    "sesgo_%": 9.7
+  },
+  "modelo_sin_dic_2025": {
+    "MAE": 3.45,
+    "RMSE": 13.2,
+    "WAPE_%": 27.5,
+    "sesgo_%": 8.9
+  }
+}

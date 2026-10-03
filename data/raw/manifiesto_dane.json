@@ -1,0 +1,16 @@
+{
+  "pob_2005_2017": {
+    "url": "https://www.dane.gov.co/files/censo2018/proyecciones-de-poblacion/Municipal/DCD-area-proypoblacion-Mun-2005-2017_VP.xlsx",
+    "archivo": "DCD-area-proypoblacion-Mun-2005-2017_VP.xlsx",
+    "bytes": 1600037,
+    "md5": "f751ce72706791cb8aa318191194ada2",
+    "descargado_utc": "2026-10-03T16:39:36+00:00"
+  },
+  "pob_2018_2042": {
+    "url": "https://www.dane.gov.co/files/censo2018/proyecciones-de-poblacion/Municipal/PPED-AreaMun-2018-2042_VP.xlsx",
+    "archivo": "PPED-AreaMun-2018-2042_VP.xlsx",
+    "bytes": 3948350,
+    "md5": "5d50719c827c616dc3b891b8dbf0a9c6",
+    "descargado_utc": "2026-10-03T16:39:38+00:00"
+  }
+}

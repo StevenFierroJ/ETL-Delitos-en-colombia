@@ -1,0 +1,36 @@
+etapa,verificacion,valor,nota
+T4,municipios en DIVIPOLA,1122,
+T1,filas crudas motos,656635,
+T1,filas crudas abigeato,44423,
+T1,filas crudas sexuales,405193,
+T1,filas crudas vif,704551,
+T2,hechos crudos (suma de cantidad) abigeato,44423,se conservan las filas repetidas
+T2,hechos crudos (suma de cantidad) motos,656635,se conservan las filas repetidas
+T2,hechos crudos (suma de cantidad) sexuales,405193,se conservan las filas repetidas
+T2,hechos crudos (suma de cantidad) vif,1501809,se conservan las filas repetidas
+T3,fechas no convertibles,0,
+T5,filas con rótulo minoritario de arma blanca homologado,3397,
+T5,género vacío o NO REPORTA convertido a nulo,11500,
+T5,grupo etario vacío convertido a nulo,3267,
+T4,filas con estado territorial anm_con_nombre_de_capital,181,
+T4,filas con estado territorial codigo_de_otro_municipio,10,
+T4,filas con estado territorial codigo_inexistente,14,
+T4,filas con estado territorial ok,1810597,
+T4,filas con código corregido por nombre,14,
+T4,filas descartadas por no tener municipio identificable,10,52000000 NARIÑO
+T4,hechos tras la llave territorial abigeato,44423,
+T4,hechos tras la llave territorial motos,656635,
+T4,hechos tras la llave territorial sexuales,405188,
+T4,hechos tras la llave territorial vif,1501804,
+T6,códigos de población fuera de DIVIPOLA (excluidos),1,94663
+T6,municipio-año con población 0,17,"13490, 19300, 23682, 23815, 27493"
+T6,filas de población anual,42623,
+T7,celdas del panel municipio-mes-conjunto,893112,
+T7,celdas sin registro rellenadas con 0,610623,
+T7,hechos en el panel motos,656635,
+T7,hechos en el panel abigeato,44423,
+T7,hechos en el panel sexuales,405188,
+T7,hechos en el panel vif,1501804,
+T8,municipios del universo denso (>= 1 hecho/mes promedio en 2018-2024),275,
+T8,filas de variables para el modelo,196350,meses 2012-01 a 2026-07
+T7,filas municipio-mes (formato ancho),223278,

@@ -1,0 +1,415 @@
+{
+  "perfil": {
+    "motos": {
+      "filas": 656635,
+      "eventos": 656635,
+      "cantidad_max": 1,
+      "fechas_no_parseables": 0,
+      "fecha_min": "2010-01-01",
+      "fecha_max": "2026-07-31",
+      "duplicados_exactos": 218780,
+      "pct_no_reportado_arma": 2.26,
+      "pct_genero_vacio": 0.11,
+      "pct_genero_no_reporta": 0.01,
+      "pct_etario_vacio": 0.03,
+      "etiquetas_arma": 12,
+      "etiquetas_familia_arma_blanca": 621,
+      "pct_dia_1": 3.39,
+      "pct_codigo_centro_poblado": 0.87,
+      "codigos8_distintos": 2200,
+      "anual": {
+        "2010": 21456,
+        "2011": 30730,
+        "2012": 31886,
+        "2013": 32159,
+        "2014": 31702,
+        "2015": 35056,
+        "2016": 39440,
+        "2017": 41760,
+        "2018": 42583,
+        "2019": 46198,
+        "2020": 36395,
+        "2021": 44562,
+        "2022": 49658,
+        "2023": 53297,
+        "2024": 51129,
+        "2025": 44022,
+        "2026": 24602
+      }
+    },
+    "abigeato": {
+      "filas": 44423,
+      "eventos": 44423,
+      "cantidad_max": 1,
+      "fechas_no_parseables": 0,
+      "fecha_min": "2010-01-01",
+      "fecha_max": "2026-07-31",
+      "duplicados_exactos": 871,
+      "pct_no_reportado_arma": 10.41,
+      "pct_genero_vacio": 9.57,
+      "pct_genero_no_reporta": 0.02,
+      "pct_etario_vacio": 2.3,
+      "etiquetas_arma": 12,
+      "etiquetas_familia_arma_blanca": 35,
+      "pct_dia_1": 3.95,
+      "pct_codigo_centro_poblado": 4.72,
+      "codigos8_distintos": 1821,
+      "anual": {
+        "2010": 1858,
+        "2011": 1884,
+        "2012": 2419,
+        "2013": 2864,
+        "2014": 2376,
+        "2015": 2570,
+        "2016": 3458,
+        "2017": 5741,
+        "2018": 4514,
+        "2019": 3787,
+        "2020": 2800,
+        "2021": 2662,
+        "2022": 2875,
+        "2023": 1821,
+        "2024": 1450,
+        "2025": 957,
+        "2026": 387
+      }
+    },
+    "sexuales": {
+      "filas": 405193,
+      "eventos": 405193,
+      "cantidad_max": 1,
+      "fechas_no_parseables": 0,
+      "fecha_min": "2010-01-01",
+      "fecha_max": "2026-07-31",
+      "duplicados_exactos": 52763,
+      "pct_no_reportado_arma": 17.28,
+      "pct_genero_vacio": 0.6,
+      "pct_genero_no_reporta": 0.16,
+      "pct_etario_vacio": 0.16,
+      "etiquetas_arma": 12,
+      "etiquetas_familia_arma_blanca": 122,
+      "pct_dia_1": 6.78,
+      "pct_codigo_centro_poblado": 0.98,
+      "codigos8_distintos": 2260,
+      "anual": {
+        "2010": 6887,
+        "2011": 8249,
+        "2012": 11488,
+        "2013": 11732,
+        "2014": 12789,
+        "2015": 21929,
+        "2016": 23954,
+        "2017": 28372,
+        "2018": 36815,
+        "2019": 38185,
+        "2020": 30922,
+        "2021": 34727,
+        "2022": 27662,
+        "2023": 28053,
+        "2024": 31474,
+        "2025": 32985,
+        "2026": 18970
+      }
+    },
+    "vif": {
+      "filas": 704551,
+      "eventos": 1501809,
+      "cantidad_max": 198,
+      "fechas_no_parseables": 0,
+      "fecha_min": "2010-01-01",
+      "fecha_max": "2026-07-31",
+      "duplicados_exactos": 0,
+      "pct_no_reportado_arma": 7.23,
+      "pct_genero_vacio": 0.48,
+      "pct_genero_no_reporta": 0.0,
+      "pct_etario_vacio": 0.2,
+      "etiquetas_arma": 9,
+      "etiquetas_familia_arma_blanca": 2619,
+      "pct_dia_1": 4.08,
+      "pct_codigo_centro_poblado": 1.07,
+      "codigos8_distintos": 2397,
+      "anual": {
+        "2010": 23171,
+        "2011": 27194,
+        "2012": 32417,
+        "2013": 33076,
+        "2014": 48442,
+        "2015": 75702,
+        "2016": 97143,
+        "2017": 100524,
+        "2018": 99914,
+        "2019": 116523,
+        "2020": 118776,
+        "2021": 128231,
+        "2022": 111786,
+        "2023": 119466,
+        "2024": 136033,
+        "2025": 138803,
+        "2026": 94608
+      }
+    }
+  },
+  "territorial": {
+    "anm_con_nombre_de_capital": {
+      "combinaciones": 12,
+      "filas": 181
+    },
+    "codigo_de_otro_municipio": {
+      "combinaciones": 3,
+      "filas": 10
+    },
+    "codigo_inexistente": {
+      "combinaciones": 3,
+      "filas": 14
+    },
+    "grafia_distinta": {
+      "combinaciones": 5,
+      "filas": 3748
+    },
+    "ok": {
+      "combinaciones": 1097,
+      "filas": 1806849
+    }
+  },
+  "poblacion": {
+    "municipios_2005_2017": 1122,
+    "municipios_2018_2042": 1123,
+    "municipios_divipola": 1122,
+    "solo_en_2018_2042_vs_2005_2017": [
+      "27493"
+    ],
+    "solo_en_2018_2042_vs_divipola": [
+      "94663"
+    ],
+    "empalme_2017_2018_mediana": 1.012,
+    "empalme_2017_2018_p5_p95": [
+      0.985,
+      1.043
+    ],
+    "empalme_cambio_mayor_10pct": 6,
+    "poblacion_cero": {
+      "27493": [
+        2018,
+        2023
+      ],
+      "94663": [
+        2020,
+        2042
+      ]
+    },
+    "municipios_menos_10k_2024": 425
+  },
+  "figuras": {
+    "municipios_80pct": {
+      "motos": 52,
+      "abigeato": 324,
+      "sexuales": 190,
+      "vif": 67
+    },
+    "top5_pct": {
+      "motos": 49.3,
+      "abigeato": 9.3,
+      "sexuales": 33.1,
+      "vif": 45.5
+    },
+    "panel_motos": {
+      "celdas": 107712,
+      "pct_ceros": 65.9,
+      "media": 3.42,
+      "varianza": 902.3,
+      "p99": 47.0,
+      "max": 950
+    },
+    "tasas_2024_motos": {
+      "mediana": 23.3,
+      "p99": 270.1,
+      "max": 523.7,
+      "max_municipio": "19845",
+      "max_municipio_pob": 23298,
+      "max_municipio_eventos": 122,
+      "pct_ceros_menos_10k": 52.6
+    },
+    "estacionalidad_motos": {
+      "1": 102.7,
+      "2": 96.6,
+      "3": 100.2,
+      "4": 95.5,
+      "5": 101.7,
+      "6": 98.9,
+      "7": 102.7,
+      "8": 104.4,
+      "9": 101.2,
+      "10": 103.1,
+      "11": 99.0,
+      "12": 94.0
+    },
+    "autocorrelacion_motos": {
+      "municipios": 272,
+      "lag1": 0.268,
+      "lag2": 0.207,
+      "lag3": 0.174,
+      "lag4": 0.15,
+      "lag5": 0.129,
+      "lag6": 0.117,
+      "lag7": 0.111,
+      "lag8": 0.091,
+      "lag9": 0.085,
+      "lag10": 0.088,
+      "lag11": 0.074,
+      "lag12": 0.086
+    },
+    "abril_2020_vs_2019_pct": {
+      "motos": -70.6,
+      "abigeato": -46.1,
+      "sexuales": -45.6,
+      "vif": -0.1
+    }
+  },
+  "manifiestos": {
+    "socrata": {
+      "motos": {
+        "alias": "motos",
+        "id": "9vha-vh9n",
+        "descripcion": "Hurto de automotores y motocicletas",
+        "url": "https://www.datos.gov.co/resource/9vha-vh9n",
+        "archivo": "motos_9vha-vh9n.csv.gz",
+        "filas_api": 656635,
+        "filas_descargadas": 656635,
+        "coinciden": true,
+        "md5_contenido": "2395cc35e38decd4828557eed2bc1fe4",
+        "extraido_utc": "2026-10-03T16:38:45+00:00",
+        "nombre": "Reporte Hurto por Modalidades Policía Nacional",
+        "publicador": "Dirección de Investigación Criminal e Interpol DIJIN",
+        "actualizado": "2026-09-01T20:19:53+00:00",
+        "columnas": {
+          "departamento": "text",
+          "municipio": "text",
+          "codigo_dane": "text",
+          "armas_medios": "text",
+          "fecha_hecho": "text",
+          "genero": "text",
+          "grupo_etario": "text",
+          "tipo_de_hurto": "text",
+          "cantidad": "number"
+        }
+      },
+      "abigeato": {
+        "alias": "abigeato",
+        "id": "d4fr-sbn2",
+        "descripcion": "Hurto abigeato, piratería terrestre y entidades financieras",
+        "url": "https://www.datos.gov.co/resource/d4fr-sbn2",
+        "archivo": "abigeato_d4fr-sbn2.csv.gz",
+        "filas_api": 44423,
+        "filas_descargadas": 44423,
+        "coinciden": true,
+        "md5_contenido": "5ae1bce8e466935c61ae636dcbd0134a",
+        "extraido_utc": "2026-10-03T16:38:48+00:00",
+        "nombre": "Reporte Hurto por Modalidades Policía Nacional",
+        "publicador": "Dirección General de la Policía Nacional - DIPON, Bogotá D.C.",
+        "actualizado": "2026-09-01T20:14:37+00:00",
+        "columnas": {
+          "departamento": "text",
+          "municipio": "text",
+          "codigo_dane": "text",
+          "armas_medios": "text",
+          "fecha_hecho": "text",
+          "genero": "text",
+          "grupo_etario": "text",
+          "tipo_de_hurto": "text",
+          "cantidad": "number"
+        }
+      },
+      "sexuales": {
+        "alias": "sexuales",
+        "id": "fpe5-yrmw",
+        "descripcion": "Delitos sexuales",
+        "url": "https://www.datos.gov.co/resource/fpe5-yrmw",
+        "archivo": "sexuales_fpe5-yrmw.csv.gz",
+        "filas_api": 405193,
+        "filas_descargadas": 405193,
+        "coinciden": true,
+        "md5_contenido": "76254200796e8c09c6528bc33dd47e6a",
+        "extraido_utc": "2026-10-03T16:39:10+00:00",
+        "nombre": "Reporte  Delitos sexuales Policía Nacional",
+        "publicador": "Dirección de Investigación Criminal e Interpol DIJIN",
+        "actualizado": "2026-09-01T19:44:38+00:00",
+        "columnas": {
+          "departamento": "text",
+          "municipio": "text",
+          "codigo_dane": "text",
+          "armas_medios": "text",
+          "fecha_hecho": "text",
+          "genero": "text",
+          "grupo_etario": "text",
+          "cantidad": "number",
+          "delito": "text"
+        }
+      },
+      "vif": {
+        "alias": "vif",
+        "id": "vuyt-mqpw",
+        "descripcion": "Violencia intrafamiliar",
+        "url": "https://www.datos.gov.co/resource/vuyt-mqpw",
+        "archivo": "vif_vuyt-mqpw.csv.gz",
+        "filas_api": 704551,
+        "filas_descargadas": 704551,
+        "coinciden": true,
+        "md5_contenido": "853b0d6e05887cac035d0db30aa6791a",
+        "extraido_utc": "2026-10-03T16:39:35+00:00",
+        "nombre": "Reporte Delito Violencia Intrafamiliar Policía Nacional",
+        "publicador": "Dirección General de la Policía Nacional - DIPON, Bogotá D.C.",
+        "actualizado": "2026-09-01T17:19:49+00:00",
+        "columnas": {
+          "departamento": "text",
+          "municipio": "text",
+          "codigo_dane": "text",
+          "armas_medios": "text",
+          "fecha_hecho": "text",
+          "genero": "text",
+          "grupo_etario": "text",
+          "cantidad": "text"
+        }
+      },
+      "divipola": {
+        "alias": "divipola",
+        "id": "gdxc-w37w",
+        "descripcion": "DIVIPOLA - códigos de municipios (DANE)",
+        "url": "https://www.datos.gov.co/resource/gdxc-w37w",
+        "archivo": "divipola_gdxc-w37w.csv.gz",
+        "filas_api": 1122,
+        "filas_descargadas": 1122,
+        "coinciden": true,
+        "md5_contenido": "673be1886efbda588b2a4877d862d51b",
+        "extraido_utc": "2026-10-03T16:39:35+00:00",
+        "nombre": "DIVIPOLA- Códigos municipios",
+        "publicador": "Departamento Administrativo Nacional de Estadística - DANE",
+        "actualizado": "2025-01-24T20:44:32+00:00",
+        "columnas": {
+          "cod_dpto": "text",
+          "dpto": "text",
+          "cod_mpio": "text",
+          "nom_mpio": "text",
+          "tipo_municipio": "text",
+          "longitud": "text",
+          "latitud": "text"
+        }
+      }
+    },
+    "dane": {
+      "pob_2005_2017": {
+        "url": "https://www.dane.gov.co/files/censo2018/proyecciones-de-poblacion/Municipal/DCD-area-proypoblacion-Mun-2005-2017_VP.xlsx",
+        "archivo": "DCD-area-proypoblacion-Mun-2005-2017_VP.xlsx",
+        "bytes": 1600037,
+        "md5": "f751ce72706791cb8aa318191194ada2",
+        "descargado_utc": "2026-10-03T16:39:36+00:00"
+      },
+      "pob_2018_2042": {
+        "url": "https://www.dane.gov.co/files/censo2018/proyecciones-de-poblacion/Municipal/PPED-AreaMun-2018-2042_VP.xlsx",
+        "archivo": "PPED-AreaMun-2018-2042_VP.xlsx",
+        "bytes": 3948350,
+        "md5": "5d50719c827c616dc3b891b8dbf0a9c6",
+        "descargado_utc": "2026-10-03T16:39:38+00:00"
+      }
+    }
+  }
+}
