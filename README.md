@@ -11,7 +11,7 @@
 
 | Nombre | Código | Usuario de GitHub |
 |---|---|---|
-| Steven Fierro Jaramillo | [pendiente] | [pendiente] |
+| Steven Fierro Jaramillo | [pendiente] | [@StevenFierroJ](https://github.com/StevenFierroJ) |
 | Sahin Pérez Caipe | [pendiente] | [pendiente] |
 | David Santiago Samboni | [pendiente] | [pendiente] |
 
@@ -110,8 +110,8 @@ La extracción guarda los datos crudos sin modificar, comprimidos, con un manifi
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/[usuario]/etl-delitos-colombia.git
-cd etl-delitos-colombia
+git clone https://github.com/StevenFierroJ/ETL-Delitos-en-colombia.git
+cd ETL-Delitos-en-colombia
 
 # 2. Crear y activar el entorno virtual
 python3 -m venv .venv
@@ -322,4 +322,4 @@ Las figuras del EDA (series, faltantes, concentración territorial, tasas y depe
 - DANE — DIVIPOLA, códigos de municipios (gdxc-w37w), https://www.datos.gov.co/resource/gdxc-w37w.
 - DANE — Proyecciones de población municipal por área 2005–2017 y 2018–2042, https://www.dane.gov.co/index.php/estadisticas-por-tema/demografia-y-poblacion/proyecciones-de-poblacion.
 - Documentación de la API Socrata (SoQL), https://dev.socrata.com.
-- Uso de IA generativa: Claude (Anthropic) asistió en la escritura del código, la redacción del README y los informes; la extracción y las cifras del EDA se verificaron reproduciéndolas en un equipo del grupo (md5 idéntico en los cinco conjuntos).
+- Uso de IA generativa: Claude (Anthropic) asistió en la escritura del código, la redacción del README y los informes; la extracción y las cifras del EDA se verificaron reproduciéndolas en un equipo del grupo.
