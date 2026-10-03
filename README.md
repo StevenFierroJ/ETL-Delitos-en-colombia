@@ -9,11 +9,11 @@
 
 ## Integrantes
 
-| Nombre | Código | Usuario de GitHub |
-|---|---|---|
-| Steven Fierro Jaramillo | [pendiente] | [@StevenFierroJ](https://github.com/StevenFierroJ) |
-| Sahin Pérez Caipe | [pendiente] | [pendiente] |
-| David Santiago Samboni | [pendiente] | [pendiente] |
+| Nombre | Usuario de GitHub |
+|---|---|
+| Steven Fierro Jaramillo | [@StevenFierroJ](https://github.com/StevenFierroJ) |
+| Sahin Pérez Caipe | [pendiente] |
+| David Santiago Samboni | [pendiente] |
 
 ## Tabla de contenido
 
