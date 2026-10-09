@@ -12,7 +12,7 @@
 | Nombre | Usuario de GitHub |
 |---|---|
 | Steven Fierro Jaramillo | [@StevenFierroJ](https://github.com/StevenFierroJ) |
-| Sahin Pérez Caipe | [pendiente] |
+| Sahin Pérez Caipe | [@sahinperez92](http://github.com/sahinperez92) |
 | David Santiago Samboni | [pendiente] |
 
 ## Tabla de contenido
